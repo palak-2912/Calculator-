@@ -1,1 +1,3 @@
-# Calculator-
+# Calculator ....
+It can  calculate (+ - / * % **)
+It can also store the history and clear it according to user preference.
